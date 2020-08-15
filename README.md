@@ -5,7 +5,7 @@
   Block Diagram
  ---
  <p>
-<img src = "octapad diagram.png">
+<img src = "octapad diagram.PNG">
 </p>
  
  
