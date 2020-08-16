@@ -29,4 +29,4 @@ The project consists of two parts:
 
 ---
 
-| [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |[Frency Chuahan][Frency Chauhan](https://github.com/Frency-Chauhan)|
+| [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Miracle Rindani](https://github.com/mrindani)                                                                                                |[Frency Chauhan](https://github.com/Frency-Chauhan)|
